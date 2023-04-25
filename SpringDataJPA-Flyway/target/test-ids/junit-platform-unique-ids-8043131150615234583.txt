@@ -1,0 +1,7 @@
+[engine:junit-jupiter]/[class:me.erano.com.AppTest]/[method:contextLoad()]
+[engine:junit-jupiter]/[class:me.erano.com.AppTest]/[method:testBookRepository()]
+[engine:junit-jupiter]/[class:me.erano.com.MySQLIntegrationTest]/[method:testBookUuid()]
+[engine:junit-jupiter]/[class:me.erano.com.MySQLIntegrationTest]/[method:testMySQL()]
+[engine:junit-jupiter]/[class:me.erano.com.MySQLIntegrationTest]/[method:bookNaturalTest()]
+[engine:junit-jupiter]/[class:me.erano.com.MySQLIntegrationTest]/[method:authorCompositeTest()]
+[engine:junit-jupiter]/[class:me.erano.com.MySQLIntegrationTest]/[method:testAuthorUuid()]

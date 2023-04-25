@@ -1,0 +1,15 @@
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\config\DbClean.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\repo\AuthorCompositeRepository.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\BookNatural.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\BookUuid.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\App.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\composite\NameId.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\repo\BookUuidRepository.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\repo\AuthorUuidRepository.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\composite\AuthorComposite.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\bootstrap\DataInitializer.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\AuthorUuid.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\repo\BookNaturalRepository.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\repo\BookRepository.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\Author.java
+D:\java-workspace\SpringDataJPA\src\main\java\me\erano\com\domain\Book.java

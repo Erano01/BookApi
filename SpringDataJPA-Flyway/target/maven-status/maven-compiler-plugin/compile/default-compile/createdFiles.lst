@@ -1,0 +1,10 @@
+me\erano\com\bootstrap\DataInitializer.class
+me\erano\com\domain\BookUuid.class
+me\erano\com\repo\BookUuidRepository.class
+me\erano\com\domain\Book.class
+me\erano\com\repo\BookRepository.class
+me\erano\com\config\DbClean.class
+me\erano\com\domain\Author.class
+me\erano\com\repo\AuthorUuidRepository.class
+me\erano\com\App.class
+me\erano\com\domain\AuthorUuid.class

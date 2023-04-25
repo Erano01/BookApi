@@ -1,0 +1,3 @@
+[engine:junit-jupiter]/[class:me.erano.com.AppTest]/[method:contextLoad()]
+[engine:junit-jupiter]/[class:me.erano.com.AppTest]/[method:testBookRepository()]
+[engine:junit-jupiter]/[class:me.erano.com.MySQLIntegrationTest]/[method:testJpaTestSliceTransaction()]
